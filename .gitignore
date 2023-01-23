@@ -1,1 +1,4 @@
 .vscode
+*.exe
+*.o
+#./chapter10_Functions/a.exe
