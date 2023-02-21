@@ -3,7 +3,7 @@
 #include<conio.h>
 void main()
 {
-    printf("\n This program \n");
+   printf("\n Hello world \n");
 
     printf("\n -----------Program Ends-------------- \n");
     getch();
